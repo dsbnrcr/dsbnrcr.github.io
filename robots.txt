@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dsbnrcr.github.io/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/app/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/assets/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/css/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/data/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/includes/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/item/sitemap.dsbnrcr.gz
+Sitemap: https://dsbnrcr.github.io/src/sitemap.dsbnrcr.gz
